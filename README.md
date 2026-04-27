@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=bytezora&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn&fontFamily=Rajdhani" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,6,8,20&height=220&text=bytezora&fontSize=80&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20DevOps&descAlignY=62&descSize=20&fontColor=ffffff&animation=fadeIn&fontFamily=Rajdhani&stroke=7C3AED&strokeWidth=1" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=26&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+scalable+backends+%F0%9F%9A%80;Go+%7C+FastAPI+%7C+NestJS+%7C+Docker;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player+%F0%9F%94%90;Clean+code.+Real+results.+Ship+fast.;Security-first+development+mindset+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=%3E+Ethical+Hacker+%26+Backend+Engineer+%F0%9F%94%90;%3E+Go+%7C+FastAPI+%7C+NestJS+%7C+Docker+%F0%9F%9A%80;%3E+Penetration+Testing+%7C+CTF+%7C+OSINT;%3E+Security-first.+Clean+code.+Ship+fast.)](https://git.io/typing-svg)
 
 <br/>
 
 [![Telegram](https://img.shields.io/badge/@bytezora-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
 [![GitHub](https://img.shields.io/badge/@bytezora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
-![Profile Views](https://komarev.com/ghpvc/?username=bytezora&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bytezora&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
