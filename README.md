@@ -38,33 +38,50 @@ available:    Freelance, remote & bug bounty
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,rust&perline=6" />
-
-<br/>
-
-### ⚡ Backend Frameworks & APIs
-<img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,graphql,flask,fiber&perline=6" />
-
-<br/>
-
-### 🗄️ Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite,elasticsearch&perline=6" />
-
-<br/>
-
-### 🐳 DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,terraform,ansible&perline=6" />
-
-<br/>
-
-### ☁️ Cloud & Monitoring
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,grafana,prometheus,linux&perline=6" />
-
-<br/>
-
-### 🧰 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,rabbitmq,kafka&perline=6" />
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>💻 Languages</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,rust&perline=6" />
+</td>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>⚡ Backend & APIs</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,graphql,flask,fiber&perline=6" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🗄️ Databases & Caching</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite,elasticsearch&perline=6" />
+</td>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🐳 DevOps & Infrastructure</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,terraform,ansible&perline=6" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>☁️ Cloud & Monitoring</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,grafana,prometheus,linux&perline=6" />
+</td>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🧰 Tools & Workflow</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,rabbitmq,kafka&perline=6" />
+</td>
+</tr>
+</table>
 
 </div>
 
