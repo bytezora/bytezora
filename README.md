@@ -87,7 +87,7 @@ available:  Freelance & remote collaboration
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bytezora&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=bytezora&theme=tokyonight&no-frame=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
