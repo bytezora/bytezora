@@ -164,9 +164,15 @@ available:    Freelance, remote & bug bounty
 
 <div align="center">
 
-### 💡 Random Dev Quote
+### 💀 Hacker Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+
+> *"The quieter you become, the more you are able to hear."*
+> 
+> **— Kali Linux**
+
+</div>
 
 </div>
 
