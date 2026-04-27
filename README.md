@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=bytezora&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Go%20%7C%20FastAPI%20%7C%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=bytezora&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+scalable+backends+%F0%9F%9A%80;Go+%7C+FastAPI+%7C+NestJS+%7C+Docker;Clean+code.+Real+results.+Ship+fast.;Open+to+freelance+%26+remote+work+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+scalable+backends+%F0%9F%9A%80;Go+%7C+FastAPI+%7C+NestJS+%7C+Docker;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player+%F0%9F%94%90;Clean+code.+Real+results.+Ship+fast.;Security-first+development+mindset+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,13 +19,15 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name:       bytezora
-role:       Backend Engineer
-focus:      [ Go, FastAPI, NestJS, DevOps ]
-databases:  [ PostgreSQL, Redis, MongoDB ]
-infra:      [ Docker, K8s, GitHub Actions, Linux ]
-currently:  Building production backends & Telegram bots
-available:  Freelance & remote collaboration
+name:         bytezora
+role:         Backend Engineer & Ethical Hacker
+focus:        [ Go, FastAPI, NestJS, DevOps ]
+security:     [ Penetration Testing, CTF, OSINT, Network Security ]
+databases:    [ PostgreSQL, Redis, MongoDB ]
+infra:        [ Docker, K8s, GitHub Actions, Linux ]
+certifications: [ CEH mindset, OWASP Top 10 ]
+currently:    Building production backends & security tooling
+available:    Freelance, remote & bug bounty
 ```
 
 <br clear="right"/>
@@ -63,6 +65,39 @@ available:  Freelance & remote collaboration
 
 ### 🧰 Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,rabbitmq,kafka&perline=6" />
+
+</div>
+
+---
+
+## 🔐 Cybersecurity & Ethical Hacking
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git&perline=5" />
+
+<br/><br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+<br/>
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=hashnode&logoColor=white)
+![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-2C3E50?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=gnu&logoColor=white)
+
+<br/>
+
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-2D2D2D?style=for-the-badge&logo=tor-project&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-006400?style=for-the-badge&logo=cisco&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Player-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
 
