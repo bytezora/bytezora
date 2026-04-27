@@ -91,30 +91,46 @@ available:    Freelance, remote & bug bounty
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git&perline=5" />
-
-<br/><br/>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-
-<br/>
-
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=hashnode&logoColor=white)
-![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-2C3E50?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=gnu&logoColor=white)
-
-<br/>
-
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-2D2D2D?style=for-the-badge&logo=tor-project&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-006400?style=for-the-badge&logo=cisco&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF_Player-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🖥️ Environment</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git&perline=5" />
+</td>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🛠️ Attack Tools</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🔍 Exploitation & Analysis</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=hashnode&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-2C3E50?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=gnu&logoColor=white" />
+</td>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/>
+  <b>🎯 Specializations</b><br/>
+  <img src="https://img.shields.io/badge/─────────────────────-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/OSINT-2D2D2D?style=for-the-badge&logo=tor-project&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF_Player-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-006400?style=for-the-badge&logo=cisco&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
