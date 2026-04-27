@@ -57,16 +57,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **[backend](https://github.com/bytezora/backend)** | Python · FastAPI · Celery · Redis | Production-grade API backend with async workers |
-| **[worklab](https://github.com/bytezora/worklab)** | TypeScript · NestJS | Full-stack work management platform |
-| **[OrbitPay](https://github.com/bytezora/OrbitPay)** | JS · CSS | Payment integration service |
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bytezora&color=6E40C9&style=flat-square&label=Profile+Views)
