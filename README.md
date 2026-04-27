@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=bytezora&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=bytezora&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn&fontFamily=Rajdhani" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+scalable+backends+%F0%9F%9A%80;Go+%7C+FastAPI+%7C+NestJS+%7C+Docker;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player+%F0%9F%94%90;Clean+code.+Real+results.+Ship+fast.;Security-first+development+mindset+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=26&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+scalable+backends+%F0%9F%9A%80;Go+%7C+FastAPI+%7C+NestJS+%7C+Docker;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player+%F0%9F%94%90;Clean+code.+Real+results.+Ship+fast.;Security-first+development+mindset+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
