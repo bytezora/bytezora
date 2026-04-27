@@ -6,7 +6,6 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasurkamilov7279@gmail.com)
 [![Telegram](https://img.shields.io/badge/@bytezora-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
 [![GitHub](https://img.shields.io/badge/@bytezora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
 ![Profile Views](https://komarev.com/ghpvc/?username=bytezora&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
