@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jasur%20Kamilov&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Go%20%7C%20FastAPI%20%7C%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=bytezora&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Go%20%7C%20FastAPI%20%7C%20DevOps&descAlignY=55&descSize=18&fontColor=fff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+scalable+backends+%F0%9F%9A%80;Go+%7C+FastAPI+%7C+NestJS+%7C+Docker;Clean+code.+Real+results.+Ship+fast.;Open+to+freelance+%26+remote+work+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name:       Jasur Kamilov
+name:       bytezora
 role:       Backend Engineer
 focus:      [ Go, FastAPI, NestJS, DevOps ]
 databases:  [ PostgreSQL, Redis, MongoDB ]
