@@ -1,205 +1,92 @@
 <div align="center">
 
-# bytezora
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=bytezora&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20DevOps&descAlignY=63&descSize=16&animation=fadeIn)
 
-### Backend Engineer · Security Researcher · DevOps
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&height=55&lines=Backend+systems+%7C+Security+tooling+%7C+DevOps;APIs+%7C+Infrastructure+%7C+Automation;Authorized+security+research+%7C+Bug+bounty+%7C+OSINT)](https://git.io/typing-svg)
 
-I build backend systems, security tools, and infrastructure automation.
+<br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@bytezora-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
-[![GitHub](https://img.shields.io/badge/GitHub-@bytezora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
-![Profile Views](https://komarev.com/ghpvc/?username=bytezora&color=7C3AED&style=for-the-badge&label=Views)
+[![Telegram](https://img.shields.io/badge/Telegram-@bytezora-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
+[![GitHub](https://img.shields.io/badge/GitHub-bytezora-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
+![Views](https://komarev.com/ghpvc/?username=bytezora&style=for-the-badge&color=000000&label=views)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-Backend Engineer, Security Researcher, and DevOps-focused developer.
+Backend Engineer focused on backend systems, infrastructure automation, DevOps workflows, and authorized security research.
 
-I work with backend systems, API platforms, security automation, infrastructure, monitoring, and reconnaissance tools.  
-My main focus is building reliable software, clean backend architecture, secure services, and practical tools for authorized security research.
+I build reliable APIs, automation tools, monitoring systems, and security-focused software for reconnaissance, asset discovery, and infrastructure visibility.
 
-```yaml
-role: Backend Engineer · Security Researcher · DevOps
-focus:
-  - Backend systems
-  - API development
-  - Security tooling
-  - Infrastructure automation
-  - Monitoring and observability
-  - Authorized security research
+---
 
-status:
-  - Open to freelance work
-  - Open to remote opportunities
-  - Interested in bug bounty and security research
+## Core
+
+```txt
+Role        Backend Engineer / Security Researcher / DevOps
+Focus       APIs, backend architecture, infrastructure, automation, security tooling
+Security    Recon, OSINT, web security, vulnerability research, bug bounty
+DevOps      Linux, Docker, Kubernetes, CI/CD, Nginx, monitoring, cloud infrastructure
+Status      Open to freelance, remote work, and authorized security research
 ```
 
 ---
 
-## Core Skills
+## Stack
 
-| Area | Skills |
-|---|---|
-| Backend | REST APIs, GraphQL APIs, Microservices, WebSockets, Authentication, Authorization, API Security |
-| Languages | Go, Python, TypeScript, JavaScript, Bash, SQL, Rust basics |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis, SQLite, Elasticsearch |
-| DevOps | Docker, Kubernetes, Linux, Nginx, CI/CD, GitHub Actions, Terraform, Ansible |
-| Cloud | AWS, Google Cloud, Cloudflare, VPS deployments, Linux servers |
-| Security | Recon, OSINT, Web Security, Vulnerability Research, Bug Bounty, OWASP Top 10 |
-| Monitoring | Grafana, Prometheus, Logs, Metrics, Uptime Monitoring, Alerting |
-| Tools | Git, GitHub, GitLab, Postman, VS Code, Linux CLI |
+```txt
+Languages      Go, Python, TypeScript, JavaScript, Bash, SQL
+Backend        REST APIs, GraphQL, WebSockets, Microservices, Authentication
+Databases      PostgreSQL, MySQL, MongoDB, Redis, SQLite, Elasticsearch
+DevOps         Linux, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Ansible
+Cloud          AWS, Google Cloud, Cloudflare, VPS
+Monitoring     Grafana, Prometheus, logs, metrics, alerts
+Security       Web Security, API Security, Recon, OSINT, OWASP Top 10, Bug Bounty
+```
 
 ---
 
-## Tech Stack
+## Technologies
 
 <div align="center">
 
-### Languages
-
 <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,rust&perline=6" />
 
-### Backend & APIs
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,express,graphql,nodejs&perline=6" />
 
-### Databases
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch&perline=6" />
 
-### DevOps & Infrastructure
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,terraform,ansible&perline=7" />
 
-### Cloud & Monitoring
+<br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,grafana,prometheus&perline=5" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,grafana,prometheus,git,github&perline=7" />
 
 </div>
-
----
-
-## Backend Engineering
-
-- REST API development
-- GraphQL API development
-- Backend architecture
-- Microservices
-- Authentication and authorization
-- JWT, OAuth, sessions, RBAC
-- API security
-- Webhooks and integrations
-- Background jobs and task queues
-- Caching and performance optimization
-- Rate limiting
-- Request validation
-- Error handling
-- Logging
-- Database design
-- Query optimization
-- Clean architecture
-- Service-to-service communication
-
----
-
-## DevOps & Infrastructure
-
-- Linux server administration
-- Docker and Docker Compose
-- Kubernetes
-- Nginx configuration
-- Reverse proxy setup
-- CI/CD pipelines
-- GitHub Actions
-- Infrastructure automation
-- Deployment automation
-- Terraform
-- Ansible
-- Shell scripting
-- SSL/TLS configuration
-- Environment management
-- Secrets management
-- Monitoring and alerting
-- Logs and metrics
-- Uptime checks
-- Performance monitoring
 
 ---
 
 ## Security Research
 
-Focused on authorized security research, automation, and attack surface analysis.
-
-### Security Areas
-
-- Web application security
-- API security
-- Reconnaissance
-- OSINT
-- Vulnerability research
-- Bug bounty
-- CTF
-- OWASP Top 10
-- Attack surface mapping
-- Subdomain enumeration
-- Port scanning
-- WAF detection
-- CVE analysis
-- Security automation
-- Responsible disclosure
-
-### Recon & OSINT
-
-- Nmap
-- Shodan
-- Amass
-- Subfinder
-- theHarvester
-- Maltego
-- DNS enumeration
-- WHOIS analysis
-- Certificate transparency logs
-- Subdomain discovery
-- Technology fingerprinting
-- Asset discovery
-
-### Web Security Tools
-
-- Burp Suite
-- OWASP ZAP
-- Nuclei
-- SQLMap
-- Nikto
-- ffuf
-- Gobuster
-- Wappalyzer
-- HTTPx
-- Katana
-- Dalfox
-
-### Security Concepts
-
-- XSS
-- SQL Injection
-- IDOR
-- SSRF
-- CSRF
-- Open Redirect
-- CORS misconfiguration
-- Authentication bypass
-- Authorization flaws
-- Information disclosure
-- Subdomain takeover
-- Security headers
-- Input validation
-- Secure coding practices
+```txt
+Reconnaissance       asset discovery, subdomain enumeration, technology fingerprinting
+Web Security         API security, OWASP Top 10, authentication and authorization flaws
+OSINT                public data analysis, DNS, WHOIS, certificate transparency
+Automation           security pipelines, reporting, scanners, monitoring
+Disclosure           responsible disclosure and authorized research only
+```
 
 ---
 
@@ -211,59 +98,55 @@ Security reconnaissance and attack surface mapping tool.
 
 `recon-x` is built for automated reconnaissance, asset discovery, vulnerability mapping, and security reporting.
 
-**Features:**
-
+```txt
+Features
 - Passive OSINT
 - Subdomain enumeration
 - Port scanning
 - CVE matching
 - WAF detection
-- CORS checks
-- SQL injection checks
-- Subdomain takeover checks
-- YAML-based template engine
-- HTML reports
-- JSON output
-- SARIF output
+- Security checks
+- HTML, JSON, and SARIF reports
+```
 
-**Repository:** [github.com/bytezora/recon-x](https://github.com/bytezora/recon-x)
+Repository: [github.com/bytezora/recon-x](https://github.com/bytezora/recon-x)
 
 ---
 
-## What I Work On
+## Work Areas
 
-- Backend services
-- API platforms
-- Security automation tools
-- Reconnaissance pipelines
-- Infrastructure automation
-- Deployment systems
-- Monitoring systems
-- Bug bounty research
-- Open-source security tooling
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bytezora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytezora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
-
-</div>
+```txt
+Backend services
+API platforms
+Security automation tools
+Reconnaissance pipelines
+Infrastructure automation
+Deployment systems
+Monitoring systems
+Bug bounty research
+Open-source security tooling
+```
 
 ---
 
 ## Contact
 
-- Telegram: [@bytezora](https://t.me/bytezora)
-- GitHub: [github.com/bytezora](https://github.com/bytezora)
+```txt
+Telegram   @bytezora
+GitHub     github.com/bytezora
+```
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Contact-@bytezora-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
+[![GitHub](https://img.shields.io/badge/Profile-github.com/by­­tezora-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
+
+</div>
 
 ---
 
 <div align="center">
 
-Open to freelance work, remote opportunities, bug bounty, and security research.
+![footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=70&section=footer&text=Open%20to%20freelance%20%C2%B7%20remote%20work%20%C2%B7%20security%20research&fontColor=ffffff&fontSize=16&animation=fadeIn)
 
 </div>
