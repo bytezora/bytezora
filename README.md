@@ -2,148 +2,268 @@
 
 # bytezora
 
-backend engineer · ethical hacker · go developer
+### Backend Engineer · Security Researcher · DevOps
 
-[![Telegram](https://img.shields.io/badge/@bytezora-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
-[![GitHub](https://img.shields.io/badge/@bytezora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
-![Views](https://komarev.com/ghpvc/?username=bytezora&color=7C3AED&style=for-the-badge&label=VIEWS)
+I build backend systems, security tools, and infrastructure automation.
+
+[![Telegram](https://img.shields.io/badge/Telegram-@bytezora-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
+[![GitHub](https://img.shields.io/badge/GitHub-@bytezora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
+![Profile Views](https://komarev.com/ghpvc/?username=bytezora&color=7C3AED&style=for-the-badge&label=Views)
 
 </div>
 
 ---
 
+## About
+
+Backend Engineer, Security Researcher, and DevOps-focused developer.
+
+I work with backend systems, API platforms, security automation, infrastructure, monitoring, and reconnaissance tools.  
+My main focus is building reliable software, clean backend architecture, secure services, and practical tools for authorized security research.
+
 ```yaml
-role:     backend engineer · ethical hacker
-stack:    Go · Python · TypeScript · Bash
-security: recon · pentest · OSINT · bug bounty · CTF
-focus:    building security tooling in Go
-status:   open for freelance · bug bounty · remote
+role: Backend Engineer · Security Researcher · DevOps
+focus:
+  - Backend systems
+  - API development
+  - Security tooling
+  - Infrastructure automation
+  - Monitoring and observability
+  - Authorized security research
+
+status:
+  - Open to freelance work
+  - Open to remote opportunities
+  - Interested in bug bounty and security research
 ```
 
 ---
 
-## 🛠️ Stack
+## Core Skills
+
+| Area | Skills |
+|---|---|
+| Backend | REST APIs, GraphQL APIs, Microservices, WebSockets, Authentication, Authorization, API Security |
+| Languages | Go, Python, TypeScript, JavaScript, Bash, SQL, Rust basics |
+| Databases | PostgreSQL, MySQL, MongoDB, Redis, SQLite, Elasticsearch |
+| DevOps | Docker, Kubernetes, Linux, Nginx, CI/CD, GitHub Actions, Terraform, Ansible |
+| Cloud | AWS, Google Cloud, Cloudflare, VPS deployments, Linux servers |
+| Security | Recon, OSINT, Web Security, Vulnerability Research, Bug Bounty, OWASP Top 10 |
+| Monitoring | Grafana, Prometheus, Logs, Metrics, Uptime Monitoring, Alerting |
+| Tools | Git, GitHub, GitLab, Postman, VS Code, Linux CLI |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,rust&perline=6" />
 
-**Backend & APIs**
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,graphql,flask,fiber&perline=6" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nestjs,express,graphql,nodejs&perline=6" />
 
-**Databases**
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite,elasticsearch&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch&perline=6" />
 
-**DevOps & Infra**
+### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,terraform,ansible&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,terraform,ansible&perline=7" />
 
-**Cloud & Monitoring**
+### Cloud & Monitoring
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,grafana,prometheus,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,grafana,prometheus&perline=5" />
 
-</div>
+### Development Tools
 
----
-
-## 🔐 Security
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git&perline=5" />
-
-</div>
-
-<br/>
-
-**Recon & OSINT**
-
-<div align="center">
-
-![recon-x](https://img.shields.io/badge/recon--x-7C3AED?style=for-the-badge&logo=github&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-2D2D2D?style=for-the-badge&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-00ADD8?style=for-the-badge&logoColor=white)
-![theHarvester](https://img.shields.io/badge/theHarvester-333333?style=for-the-badge&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-4B0082?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
-
-**Web Application**
-
-<div align="center">
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-1A1A1A?style=for-the-badge&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-006400?style=for-the-badge&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-00C7B7?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
-
-**Network & Exploitation**
-
-<div align="center">
-
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-2C3E50?style=for-the-badge&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-CC0000?style=for-the-badge&logoColor=white)
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1A1A1A?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
-
-**Password & Privilege**
-
-<div align="center">
-
-![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000080?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2C3E50?style=for-the-badge&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-FF4500?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Pentest](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-FFD700?style=for-the-badge&logoColor=black)
-![CTF](https://img.shields.io/badge/CTF_Player-7C3AED?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-2D2D2D?style=for-the-badge&logo=tor-project&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&perline=5" />
 
 </div>
 
 ---
 
-## 📦 Projects
+## Backend Engineering
 
-**[recon-x](https://github.com/bytezora/recon-x)** `Go` — attack surface mapper. 26-module pipeline: passive OSINT, port scan, CVE matching, WAF detection, subdomain takeover, CORS, SQLi, YAML template engine. HTML + JSON + SARIF output.
+- REST API development
+- GraphQL API development
+- Backend architecture
+- Microservices
+- Authentication and authorization
+- JWT, OAuth, sessions, RBAC
+- API security
+- Webhooks and integrations
+- Background jobs and task queues
+- Caching and performance optimization
+- Rate limiting
+- Request validation
+- Error handling
+- Logging
+- Database design
+- Query optimization
+- Clean architecture
+- Service-to-service communication
 
 ---
 
-## 📊 Stats
+## DevOps & Infrastructure
+
+- Linux server administration
+- Docker and Docker Compose
+- Kubernetes
+- Nginx configuration
+- Reverse proxy setup
+- CI/CD pipelines
+- GitHub Actions
+- Infrastructure automation
+- Deployment automation
+- Terraform
+- Ansible
+- Shell scripting
+- SSL/TLS configuration
+- Environment management
+- Secrets management
+- Monitoring and alerting
+- Logs and metrics
+- Uptime checks
+- Performance monitoring
+
+---
+
+## Security Research
+
+Focused on authorized security research, automation, and attack surface analysis.
+
+### Security Areas
+
+- Web application security
+- API security
+- Reconnaissance
+- OSINT
+- Vulnerability research
+- Bug bounty
+- CTF
+- OWASP Top 10
+- Attack surface mapping
+- Subdomain enumeration
+- Port scanning
+- WAF detection
+- CVE analysis
+- Security automation
+- Responsible disclosure
+
+### Recon & OSINT
+
+- Nmap
+- Shodan
+- Amass
+- Subfinder
+- theHarvester
+- Maltego
+- DNS enumeration
+- WHOIS analysis
+- Certificate transparency logs
+- Subdomain discovery
+- Technology fingerprinting
+- Asset discovery
+
+### Web Security Tools
+
+- Burp Suite
+- OWASP ZAP
+- Nuclei
+- SQLMap
+- Nikto
+- ffuf
+- Gobuster
+- Wappalyzer
+- HTTPx
+- Katana
+- Dalfox
+
+### Security Concepts
+
+- XSS
+- SQL Injection
+- IDOR
+- SSRF
+- CSRF
+- Open Redirect
+- CORS misconfiguration
+- Authentication bypass
+- Authorization flaws
+- Information disclosure
+- Subdomain takeover
+- Security headers
+- Input validation
+- Secure coding practices
+
+---
+
+## Featured Project
+
+### recon-x
+
+Security reconnaissance and attack surface mapping tool.
+
+`recon-x` is built for automated reconnaissance, asset discovery, vulnerability mapping, and security reporting.
+
+**Features:**
+
+- Passive OSINT
+- Subdomain enumeration
+- Port scanning
+- CVE matching
+- WAF detection
+- CORS checks
+- SQL injection checks
+- Subdomain takeover checks
+- YAML-based template engine
+- HTML reports
+- JSON output
+- SARIF output
+
+**Repository:** [github.com/bytezora/recon-x](https://github.com/bytezora/recon-x)
+
+---
+
+## What I Work On
+
+- Backend services
+- API platforms
+- Security automation tools
+- Reconnaissance pipelines
+- Infrastructure automation
+- Deployment systems
+- Monitoring systems
+- Bug bounty research
+- Open-source security tooling
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bytezora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytezora&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytezora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+
+</div>
+
+---
+
+## Contact
+
+- Telegram: [@bytezora](https://t.me/bytezora)
+- GitHub: [github.com/bytezora](https://github.com/bytezora)
+
+---
+
+<div align="center">
+
+Open to freelance work, remote opportunities, bug bounty, and security research.
 
 </div>
