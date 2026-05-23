@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=bytezora&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20DevOps&descAlignY=63&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=bytezora&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20DevOps&descAlignY=63&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&height=55&lines=Backend+systems+%7C+Security+tooling+%7C+DevOps;APIs+%7C+Infrastructure+%7C+Automation;Authorized+security+research+%7C+Bug+bounty+%7C+OSINT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=850&height=55&lines=Backend+Systems+%7C+Cybersecurity+%7C+DevOps;Infrastructure+%7C+Automation+%7C+Security+Research;Recon+%7C+OSINT+%7C+Bug+Bounty+%7C+CTF)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,18 +16,18 @@
 
 ## Profile
 
-Backend Engineer focused on backend systems, infrastructure automation, DevOps workflows, and authorized security research.
+Backend Engineer, Cybersecurity Researcher, and DevOps-focused developer.
 
-I build reliable APIs, automation tools, monitoring systems, and security-focused software for reconnaissance, asset discovery, and infrastructure visibility.
+I build backend systems, infrastructure automation, monitoring tools, and cybersecurity-focused software for reconnaissance, asset discovery, and security research.
 
 ---
 
 ## Core
 
 ```txt
-Role        Backend Engineer / Security Researcher / DevOps
-Focus       APIs, backend architecture, infrastructure, automation, security tooling
-Security    Recon, OSINT, web security, vulnerability research, bug bounty
+Role        Backend Engineer / Cybersecurity Researcher / DevOps
+Focus       Backend architecture, infrastructure, automation, cybersecurity tooling
+Security    Recon, OSINT, pentest, vulnerability research, bug bounty, CTF
 DevOps      Linux, Docker, Kubernetes, CI/CD, Nginx, monitoring, cloud infrastructure
 Status      Open to freelance, remote work, and authorized security research
 ```
@@ -37,13 +37,13 @@ Status      Open to freelance, remote work, and authorized security research
 ## Stack
 
 ```txt
-Languages      Go, Python, TypeScript, JavaScript, Bash, SQL
-Backend        REST APIs, GraphQL, WebSockets, Microservices, Authentication
-Databases      PostgreSQL, MySQL, MongoDB, Redis, SQLite, Elasticsearch
-DevOps         Linux, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Ansible
-Cloud          AWS, Google Cloud, Cloudflare, VPS
-Monitoring     Grafana, Prometheus, logs, metrics, alerts
-Security       Web Security, API Security, Recon, OSINT, OWASP Top 10, Bug Bounty
+Languages        Go, Python, TypeScript, JavaScript, Bash, SQL
+Backend          REST APIs, GraphQL, WebSockets, Microservices, Authentication
+Databases        PostgreSQL, MySQL, MongoDB, Redis, SQLite, Elasticsearch
+DevOps           Linux, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Ansible
+Cloud            AWS, Google Cloud, Cloudflare, VPS
+Monitoring       Grafana, Prometheus, logs, metrics, alerts
+Cybersecurity    Recon, OSINT, pentest, network security, threat analysis, bug bounty
 ```
 
 ---
@@ -78,14 +78,16 @@ Security       Web Security, API Security, Recon, OSINT, OWASP Top 10, Bug Bount
 
 ---
 
-## Security Research
+## Cybersecurity
 
 ```txt
 Reconnaissance       asset discovery, subdomain enumeration, technology fingerprinting
-Web Security         API security, OWASP Top 10, authentication and authorization flaws
 OSINT                public data analysis, DNS, WHOIS, certificate transparency
-Automation           security pipelines, reporting, scanners, monitoring
-Disclosure           responsible disclosure and authorized research only
+Pentest              authorized testing, attack surface analysis, security assessment
+Network Security     traffic analysis, Linux networking, ports, protocols, firewalls
+Vulnerability R&D    CVE analysis, vulnerability research, responsible disclosure
+Automation           security pipelines, scanners, reporting, monitoring
+Platforms            Bug bounty, CTF, labs, open-source security tooling
 ```
 
 ---
@@ -94,7 +96,7 @@ Disclosure           responsible disclosure and authorized research only
 
 ### recon-x
 
-Security reconnaissance and attack surface mapping tool.
+Cybersecurity reconnaissance and attack surface mapping tool.
 
 `recon-x` is built for automated reconnaissance, asset discovery, vulnerability mapping, and security reporting.
 
@@ -118,7 +120,7 @@ Repository: [github.com/bytezora/recon-x](https://github.com/bytezora/recon-x)
 ```txt
 Backend services
 API platforms
-Security automation tools
+Cybersecurity tools
 Reconnaissance pipelines
 Infrastructure automation
 Deployment systems
@@ -139,7 +141,7 @@ GitHub     github.com/bytezora
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Contact-@bytezora-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytezora)
-[![GitHub](https://img.shields.io/badge/Profile-github.com/by­­tezora-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
+[![GitHub](https://img.shields.io/badge/Profile-github.com/bytezora-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytezora)
 
 </div>
 
@@ -147,6 +149,6 @@ GitHub     github.com/bytezora
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=70&section=footer&text=Open%20to%20freelance%20%C2%B7%20remote%20work%20%C2%B7%20security%20research&fontColor=ffffff&fontSize=16&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=70&section=footer&text=Open%20to%20freelance%20%C2%B7%20remote%20work%20%C2%B7%20cybersecurity%20research&fontColor=ffffff&fontSize=16&animation=fadeIn)
 
 </div>
